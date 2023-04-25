@@ -7,3 +7,6 @@ The four models used are
   - Random Forest Classifier
   - SVM with RBF
   - ResNet
+
+
+Please note that the link to the saved model of the RBF Kernel Based SVM is here : https://drive.google.com/drive/folders/1nCoNmKtQSd8OPSNfF6_OHE3odxaawK_N?usp=sharing
